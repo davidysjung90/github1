@@ -1,0 +1,13 @@
+body {
+	background color: gray;
+	text-align: center;
+	font-style: arial;
+}
+
+h1 {
+	color:red;
+}
+
+li {
+	text-align: left;
+}
